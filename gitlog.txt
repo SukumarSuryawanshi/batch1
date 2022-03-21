@@ -1,0 +1,97 @@
+* commit 610d676e7d8848e0b319bc096de6fd65f113fd78
+| Author: Sukumar Suryawanshi <Sukumar.Suryawanshi@ge.com>
+| Date:   Mon Mar 21 06:50:57 2022 +0530
+| 
+|     added few file called shiv on local repo
+| 
+* commit b3c0cf12850243e1d86164a5db4805962c147154
+| Author: Sukumar Suryawanshi <Sukumar.Suryawanshi@ge.com>
+| Date:   Thu Mar 17 07:44:36 2022 +0530
+| 
+|     added basufile from local
+| 
+* commit 2f3888d3c32dbcad619e16797e58b5eb83b73bb9
+| Author: SukumarSuryawanshi <56259077+SukumarSuryawanshi@users.noreply.github.com>
+| Date:   Thu Mar 17 07:24:25 2022 +0530
+| 
+|     modified by sukumar in sukumar branch
+| 
+* commit 48b44cfcb2ae373ddd7e8b1c403b2363765a97bf
+| Author: Sukumar Suryawanshi <Sukumar.Suryawanshi@ge.com>
+| Date:   Thu Mar 17 07:09:04 2022 +0530
+| 
+|     added new xls file from uat
+| 
+* commit c3cd2b42fe43632d597eb22c873732b03a4c8ca8
+| Author: Sukumar Suryawanshi <Sukumar.Suryawanshi@ge.com>
+| Date:   Thu Mar 17 07:06:02 2022 +0530
+| 
+|     created new file named uatfile
+| 
+* commit aa72019591a5fdcc946422e5fb79de7110d3d46e
+| Author: Sukumar Suryawanshi <Sukumar.Suryawanshi@ge.com>
+| Date:   Thu Mar 17 06:55:00 2022 +0530
+| 
+|     Added temp2 from uat and created uat branch
+| 
+* commit 818cb086f95c5057c87d7b2facbada3e885be606
+| Author: Sukumar Suryawanshi <Sukumar.Suryawanshi@ge.com>
+| Date:   Wed Mar 16 07:57:52 2022 +0530
+| 
+|     added devfile1 from local under dev branch
+| 
+* commit 17e39d8d46229b8ba7a86b2f1ada2b2613a92416
+| Author: Sukumar Suryawanshi <Sukumar.Suryawanshi@ge.com>
+| Date:   Wed Mar 16 07:46:36 2022 +0530
+| 
+|     added a line to show git diff
+| 
+* commit 396dc5c2d20b99653eb15c54318e67bf38c958cd
+| Author: SukumarSuryawanshi <56259077+SukumarSuryawanshi@users.noreply.github.com>
+| Date:   Wed Mar 16 07:27:01 2022 +0530
+| 
+|     Update temp1
+| 
+* commit 9c48184771b088991520d3b520f34a3a14e12f42
+| Author: Sukumar Suryawanshi <Sukumar.Suryawanshi@ge.com>
+| Date:   Wed Mar 16 07:11:54 2022 +0530
+| 
+|     added temp1 file and modified readme
+| 
+* commit 0b27e094bde7a85011737fac5344155a08231bd0
+| Author: SukumarSuryawanshi <56259077+SukumarSuryawanshi@users.noreply.github.com>
+| Date:   Wed Mar 16 06:47:24 2022 +0530
+| 
+|     Update README.md
+| 
+* commit be9e2e189aecad559b486a268628700e3385917c
+| Author: Sukumar Suryawanshi <Sukumar.Suryawanshi@ge.com>
+| Date:   Tue Mar 15 07:45:23 2022 +0530
+| 
+|     Added gitprac.sh and deleted .sh
+| 
+* commit 605d99f4d31286e49169add96ef8f010578285ac
+| Author: SukumarSuryawanshi <56259077+SukumarSuryawanshi@users.noreply.github.com>
+| Date:   Tue Mar 15 07:12:20 2022 +0530
+| 
+|     Update README.md
+|     
+|     Added 1st line from console
+| 
+* commit cf1f3289c235463959757cbdbd755701f9d05f81
+| Author: SukumarSuryawanshi <56259077+SukumarSuryawanshi@users.noreply.github.com>
+| Date:   Tue Mar 15 07:11:47 2022 +0530
+| 
+|     Update README.md
+| 
+* commit d9dea7d0224fb88cf048dd5b2f121f1312f04a09
+| Author: SukumarSuryawanshi <56259077+SukumarSuryawanshi@users.noreply.github.com>
+| Date:   Tue Mar 15 07:11:00 2022 +0530
+| 
+|     Create .sh
+| 
+* commit 1762bdf6861a059bf01ba87e751bc4a1bedd0017
+  Author: SukumarSuryawanshi <56259077+SukumarSuryawanshi@users.noreply.github.com>
+  Date:   Tue Mar 15 07:01:28 2022 +0530
+  
+      Initial commit
